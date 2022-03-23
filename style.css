@@ -1,0 +1,27 @@
+html {      
+    background: url("3732372.webp") no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+.title h1 {
+    text-align: center;
+    text-shadow: 2px 2px 5px red;
+    color: white;
+    font-family: "Copperplate", fantasy;
+    font-size: 50px;
+}
+.center {
+    font-family: "Copperplate", fantasy;
+    font-weight: bold;
+    color: white;
+    text-shadow: 2px 2px 5px red;
+    font-size: 98px;
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%) 
+}
